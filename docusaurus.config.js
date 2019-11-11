@@ -22,7 +22,7 @@ module.exports = {
       },
       links: [
         {to: 'docs/doc1', label: 'Docs', position: 'left'},
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'Dev Talk', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -68,7 +68,7 @@ module.exports = {
           title: 'Social',
           items: [
             {
-              label: 'Blog',
+              label: 'Dev Talk',
               to: 'blog',
             },
           ],

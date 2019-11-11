@@ -13,13 +13,13 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #A618D7;
-  --ifm-color-primary-dark: rgb(141, 23, 181);
-  --ifm-color-primary-darker: rgb(106, 18, 135);
-  --ifm-color-primary-darkest: rgb(53, 9, 67);
-  --ifm-color-primary-light: rgb(187, 53, 227);
-  --ifm-color-primary-lighter: rgb(202, 98, 234);
-  --ifm-color-primary-lightest: rgb(217, 143, 240);
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: rgb(33, 175, 144);
+  --ifm-color-primary-darker: rgb(31, 165, 136);
+  --ifm-color-primary-darkest: rgb(26, 136, 112);
+  --ifm-color-primary-light: rgb(70, 203, 174);
+  --ifm-color-primary-lighter: rgb(102, 212, 189);
+  --ifm-color-primary-lightest: rgb(146, 224, 208);
 }
 
 .docusaurus-highlight-code-line {

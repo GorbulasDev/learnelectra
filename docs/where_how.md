@@ -5,9 +5,12 @@ title: How and Where to Purchase Electra
 
 # How Do I Purchase, Buy, and Hold Electra? (ECA)
 
-## Where Do I Even Start?
+## Where is the Tl;dr version? (Too long, didn't read)
+[https://electraproject.org/exchanges](https://electraproject.org/exchanges)
 
-You want to be an investor in Electra (ECA) but you have no idea where to begin? Let's walk you through the things you need to be successful and to be a holder of ECA!
+## I Have Time to Read, Where Do I Start?
+
+You want to be an investor in Electra (ECA) but you have no idea where to begin? Let's walk you through the things you need to be successful holder of ECA!
 
 *   1\. A place to hold your Electra Coins
 *   2\. A place to buy or purchase your Electra Coins
