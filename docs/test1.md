@@ -13,83 +13,37 @@ The Electra QT Wallet is a GUI (Graphical User Interface) version of the headles
 
 This folder contains your wallet.dat, Electra.conf, and your copy of the blockchain your wallet downloaded.
 
-*   Windows: C:/Users/YOUR_USER_NAME/AppData/Roaming/Electra
-*   Mac: ~/Library/Application Support/Electra
-*   Linux: ~/.electra
+Windows:
+```
+ C:/Users/YOUR_USER_NAME/AppData/Roaming/Electra
+```
+Mac:
+```
+ ~/Library/Application Support/Electra
+```
+Linux:
+```
+~/.electra
+```
 
-<div class="accordion" id="accordionExample">
-
-<div class="card">
-
-<div class="card-header" id="headingOne">
-
-## <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Electra Folder - Windows</button>
-
-</div>
-
-<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
-
-<div class="card-body">
-
+### Windows
 To locate the folder, you can navigate to the location, C:/Users/YOUR_USER_NAME/AppData/Roaming/Electra or follow these steps:
 
 *   Open Run by pressing the Windows Key on the keyboard and the letter r together at the same time
 *   Type in the Run box: %APPDATA%
 *   Then press Enter and if done correctly, will take you to your Electra folder.
 
-</div>
-
-</div>
-
-</div>
-
-<div class="card">
-
-<div class="card-header" id="headingTwo">
-
-## <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Electra Folder - Mac</button>
-
-</div>
-
-<div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
-
-<div class="card-body">
-
+### Mac
 To locate the folder, you can navigate to the location ~/Library/Application Support/Electra or do the following:
 
 *   Click desktop and click on Go to folder or press Shift ⇧ + Command ⌘ + G
 *   Type ~/Library/Application Support/Electra and then click on Go
 
-</div>
-
-</div>
-
-</div>
-
-<div class="card">
-
-<div class="card-header" id="headingThree">
-
-## <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Electra Folder - Linux</button>
-
-</div>
-
-<div id="collapseThree" class="collapse show" aria-labelledby="headingThree" data-parent="#accordionExample">
-
-<div class="card-body">
-
+### Linux
 To locate the folder, you can navigate to the location ~/.electra - Folder is hidden by system default - or do the following:
 
 *   Open up terminal and type cd ~/.electra
 *   Or open it up in the file browser, pressing Shift ⇧ + h to view hidden files and folders
-
-</div>
-
-</div>
-
-</div>
-
-</div>
 
 ## **Backup Wallet**
 

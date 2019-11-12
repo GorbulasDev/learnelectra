@@ -15,7 +15,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
+    title: <>Easy to Learn</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
@@ -25,7 +25,7 @@ const features = [
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>Get Educated</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
@@ -35,7 +35,7 @@ const features = [
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>Grow Your Understanding</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>

@@ -6,7 +6,7 @@
  */
 
 module.exports = {
-  title: 'Electra Project Education',
+  title: 'Learn Electra Project',
   tagline: 'To learn, educate, and grow',
   url: 'https://educate.electraproject.org',
   baseUrl: '/',
@@ -75,10 +75,10 @@ module.exports = {
         },
       ],
       logo: {
-        alt: 'Facebook Open Source Logo',
-        src: 'https://docusaurus.io/img/oss_logo.png',
+        alt: 'Electra Project Logo',
+        src: 'https://raw.githubusercontent.com/Electra-project/Electra-Media-Kit/master/Electra%20Logo/White%20logo/Electra%20White%20logo%20small.png',
       },
-      copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Electra Project. Built with Docusaurus.`,
     },
   },
   presets: [

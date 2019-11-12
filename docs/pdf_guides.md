@@ -14,4 +14,6 @@ Here are a number of documents that may come in handy when trying to setup a QT 
 *   [Desktop Wallet FAQ GUIDE (NOT IN USE, OUTDATED WALLET)](https://electra-support.org/wallet-help/new-wallet-faq/)
 *   [Same Assertion Fix from Above](https://electra-support.org/wallet-help/javascript-assertion-error-fix/)
 
-<iframe src="https://www.youtube.com/embed/8jofIMKJseU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe><iframe src="https://www.youtube.com/embed/Vws7WJxMuP4" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe><iframe src="https://www.youtube.com/embed/yZkR_hWx1u8" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe><iframe src="https://www.youtube.com/embed/nvOAhf9g1Fg" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+[![wallet_backup](http://img.youtube.com/vi/Vws7WJxMuP4/0.jpg)](http://www.youtube.com/watch?v=Vws7WJxMuP4 "Electra ECA Wallet Backup")
+[![wallet_restore](http://img.youtube.com/vi/yZkR_hWx1u8/0.jpg)](http://www.youtube.com/watch?v=yZkR_hWx1u8 "Electra ECA Wallet Restore")
+[![wallet_mnemonic](http://img.youtube.com/vi/nvOAhf9g1Fg/0.jpg)](http://www.youtube.com/watch?v=nvOAhf9g1Fg "Electra ECA Wallet Restore Mnemonic")
