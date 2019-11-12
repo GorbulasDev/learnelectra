@@ -18,7 +18,7 @@ module.exports = {
       title: 'Learn Electra',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/electravec.svg',
       },
       links: [
         {to: 'docs/doc1', label: 'Docs', position: 'left'},
