@@ -51,7 +51,7 @@ module.exports = {
 	    },
 	    {
 	      label: 'Main Website',
-	      href: 'https://electraproject.org'
+	      href: 'https://electraproject.org',
 	    },
           ],
         }, 
