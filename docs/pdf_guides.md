@@ -13,4 +13,4 @@ Here are a number of documents that may come in handy when trying to setup a QT 
 *   [Desktop Wallet Setup Guide (NOT IN USE, OUTDATED WALLET)](https://cdn.electraproject.org/wp-content/uploads/2018/07/Desktop_Wallet_Guide.pdf)
 *   [Desktop Wallet FAQ GUIDE (NOT IN USE, OUTDATED WALLET)](https://electra-support.org/wallet-help/new-wallet-faq/)
 *   [Same Assertion Fix from Above](https://electra-support.org/wallet-help/javascript-assertion-error-fix/)
-
+*   [New Staking Guide](https://medium.com/@electrafoundation/electras-proof-of-stake-v3-0e-explained-2400f5681731)

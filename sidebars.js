@@ -7,12 +7,13 @@
 
 module.exports = {
   docs: {
+    'Introduction': ['intro_guide'],
     'Purchasing Electra': ['where_how'],
     'Electra QT Wallet': ['test1', 'restore_dat', 'restore_mnemonic', 'backup', 'pdf_guides', 'qt_safety'],
     'Crypto Noob': ['i_am_new', 'staking'],
     'Electra Info and Stats': ['info'],
-    'Mobile and Hardware Wallets': ['mobile_hardware'],
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
+    'Other Wallets': ['mobile_hardware'],
+    Docusaurus: ['doc1'],
     Features: ['mdx'],
     ElectraPay:['starter_guide', 'registration'],
   },

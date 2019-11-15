@@ -21,7 +21,7 @@ module.exports = {
         src: 'img/electravec.svg',
       },
       links: [
-        {to: 'docs/doc1', label: 'Docs', position: 'left'},
+        {to: 'docs/intro_guide', label: 'Docs', position: 'left'},
         {to: 'blog', label: 'Dev Talk', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
@@ -38,7 +38,7 @@ module.exports = {
           items: [
             {
               label: 'Docs',
-              to: 'docs/doc1',
+              to: 'docs/intro_guide',
             },
           ],
         },
