@@ -13,8 +13,9 @@ module.exports = {
     'Crypto Noob': ['i_am_new', 'staking'],
     'Electra Info and Stats': ['info'],
     'Other Wallets': ['mobile_hardware'],
+    'Frequently Asked Questions': ['faq'],
     Docusaurus: ['doc1'],
     Features: ['mdx'],
-    ElectraPay:['starter_guide', 'registration'],
+    ElectraPay:['starter_guide', 'registration', 'electrapay_account'],
   },
 };
