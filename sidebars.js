@@ -7,15 +7,13 @@
 
 module.exports = {
   docs: {
-    'Introduction': ['intro_guide'],
-    'Purchasing Electra': ['where_how'],
-    'Electra QT Wallet': ['test1', 'restore_dat', 'restore_mnemonic', 'backup', 'pdf_guides', 'qt_safety'],
-    'Crypto Noob': ['i_am_new', 'staking'],
+    'Beginners Guide': ['intro_guide', 'i_am_new', 'staking'],
     'Electra Info and Stats': ['info'],
-    'Other Wallets': ['mobile_hardware'],
+    'Electra (ECA) Currency': ['where_how'],
+    'Electra QT Wallet': ['test1', 'qt_safety', 'backup', 'restore_dat', 'restore_mnemonic', 'pdf_guides'],
+    'Other Types of Wallets': ['mobile_hardware'],
+    ElectraPay:['electrapay_account', 'starter_guide', 'registration'],
     'Frequently Asked Questions': ['faq'],
-    Docusaurus: ['doc1'],
-    Features: ['mdx'],
-    ElectraPay:['starter_guide', 'registration', 'electrapay_account'],
+    'Electra Project Archives': ['archive'],
   },
 };

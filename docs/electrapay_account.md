@@ -1,6 +1,6 @@
 ---
 id: electrapay_account
-title: Account Page
+title: Account Page Setup
 ---
 
 # Account Page

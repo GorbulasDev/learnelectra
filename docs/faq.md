@@ -5,7 +5,7 @@ title: Frequently Asked Questions and Issues
 
 ## Frequently Asked Questions and Issues
 ## Add categories
-Below is a list of commonly asked questions about Electra or the Electra QT Wallet. We have tried to answer them to the best of our ability.
+Below is a list of commonly asked questions about Electra or the Electra QT Wallet. We have tried to answer them to the best of our ability. (Click on the question text to expand the answer)
 
 <details><summary>When will Electra incorporate Masternodes?</summary>
 <p>
