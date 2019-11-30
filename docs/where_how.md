@@ -45,3 +45,5 @@ Electra coins or ECA, can be purchased using fiat (paper currency or in digital 
 In order to receive any other crypto currency, you more than likely need to use your fiat currency to first. Examples sites such as Coinbase, Kraken, etc and even mobile apps such as CashApp for example support the use of trading fiat currency for major crypto currencies. You could use your fiat currency and purchase for example Bitcoin. In order to buy Electra, you would need to send Bitcoin from the exchange your purchased it from and send it to the exchange you wish to buy ECA from.  
 
 Each exchange has it's own set of rules, laws, and regulations, all through each location country and the user purchasing crypto has to follow the regulations of their own country. This also brings KYC, Know your Customer, in to play. You are required by some exchanges to provide personal info, including social security number for a number of American exchanges, to purchase crypto. As these safeguards may be burdensome, they are required. Please refer to your local laws for any legal and financial questions.
+
+![Buy Electra](../img/electra_project_presents.png)

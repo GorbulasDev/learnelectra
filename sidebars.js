@@ -7,7 +7,7 @@
 
 module.exports = {
   docs: {
-    'Beginners Guide': ['intro_guide', 'i_am_new', 'staking'],
+    'Beginners Guide': ['intro_guide', 'i_am_advance', 'staking'],
     'Electra Info and Stats': ['info'],
     'Electra (ECA) Currency': ['where_how'],
     'Electra QT Wallet': ['test1', 'qt_safety', 'backup', 'restore_dat', 'restore_mnemonic', 'pdf_guides'],

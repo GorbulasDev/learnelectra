@@ -19,8 +19,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Learning cryptocurrency can be tough! We make it easy.
       </>
     ),
   },
@@ -29,8 +28,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Educating yourself on how Electra works and how it can be used in various ways is important to making sound investments.
       </>
     ),
   },
@@ -39,8 +37,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Understanding about the project and the many ways Electra affects the crypto space is important! Use this document site to grow your knowledge.
       </>
     ),
   },
