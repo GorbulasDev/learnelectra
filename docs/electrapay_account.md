@@ -7,17 +7,17 @@ title: Account Page Setup
 
 In this page you will find a number of options to customize your ElectraPay experience. This guide will give you some more information to each box.
 
-## Personnal Information
+## Personal Information
 
 Most of this should have already been entered from your account creation. You do have the option to set a logo image of your profile as well.
 
 ## Address Details
 
-This section is used for more user information to help buyers know more information about who is purchsing products from them.
+This section is used for more user information to help buyers know more information about who is purchasing products from them.
 
 ## Payment Details
 
-You can set here your details on what currency you are using as a fiat base and what your wallet informaiton is. You can also setup a new Electra Wallet address if you need from your own wallet.
+You can set here your details on what currency you are using as a fiat base and what your wallet information is. You can also setup a new Electra Wallet address if you need from your own wallet.
 
 ## Contact Person Information
 

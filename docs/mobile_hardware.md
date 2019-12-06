@@ -5,7 +5,7 @@ title: Hardware, Mobile, and Paper Wallets
 
 ## Mobile Wallets
 
-We have our current Android wallet availble for download through Google Play and soon our iOS wallet will be ready for download through the Apple Store!
+We have our current Android wallet available for download through Google Play and soon our iOS wallet will be ready for download through the Apple Store!
 
 ### Android Wallets
 
@@ -17,7 +17,7 @@ WIP
 
 ## Hardware Wallets
 
-As of current, we have the Ellipal wallet that is the hardware wallet we recommend to users. Ledger and Trezor intergration are in work right now. We undertsand this has taken us some time but navigating support and intergration can be compared to a maze. Please be patient with us.
+As of current, we have the Ellipal wallet that is the hardware wallet we recommend to users. Ledger and Trezor integration are in work right now. We understand this has taken us some time but navigating support and integration can be compared to a maze. Please be patient with us.
 
 ### Ellipal
 

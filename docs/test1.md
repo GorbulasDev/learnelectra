@@ -5,7 +5,7 @@ title: Electra QT Wallet
 
 ## **What is the Electra QT Wallet?**
 
-The Electra QT Wallet is a GUI (Graphical User Interface) version of the headless or daemon wallet. The headless wallet is all command line based. The QT Wallet gives users a way to easily store and transfer Crypto. Currently, the QT is the most widely used wallet at this time. You can learn more about QT by viewing this link [QT](https://qt.io). The QT wallet uses majority to all commands the headless wallet uses. As crypto is to become more widely used and accepted, this method helps every day users and non-tech savy users to be able to store and trade crypto. Though, there is still a small learning curve with the QT program, once you learn how to use the QT wallet, most other crypto currency wallets that are coins not tokens, will be easy to use as most commands are very identical.
+The Electra QT Wallet is a GUI (Graphical User Interface) version of the headless or daemon wallet. The headless wallet is all command line based. The QT Wallet gives users a way to easily store and transfer Crypto. Currently, the QT is the most widely used wallet at this time. You can learn more about QT by viewing this link [QT](https://qt.io). The QT wallet uses majority to all commands the headless wallet uses. As crypto is to become more widely used and accepted, this method helps every day users and non-tech savvy users to be able to store and trade crypto. Though, there is still a small learning curve with the QT program, once you learn how to use the QT wallet, most other crypto currency wallets that are coins not tokens, will be easy to use as most commands are very identical.
 
 ## **File Locations**
 

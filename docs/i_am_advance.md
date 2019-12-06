@@ -7,24 +7,24 @@ title: I Have the Basics. Now Teach Me More!
 Private keys, priv keys, what does all this mean? These are hashes that are a long chain of letters and numbers. With these keys, they hold the access to your coins on the blockchain. Your wallet stores these keys, in short, your wallet never stores actual coins. It retrieves the coins associated with the private keys in your wallet on the blockchain and displays them on your wallet.
 
 ### Dump Private Keys Using Wallet Dump
-1. Open up your Electra QT Wallet
+1. Open your Electra QT Wallet
 2. Unlock your wallet (make sure you leave the box unchecked for staking only)
 3. Go to Tools --> Debug Console
 4. The format for the command to dump the file is:
 ```
 dumpwallet "filename"
 ```
-For example you can do
+For example, you can do
 ```
 dumpwallet mydumpedwallet.txt
 ```
 If it gives you an error about unlocking wallet first (even if you unlocked already from step 2, do this command in the console, example if your password is FluffyBunny58 type:
 ```
-walletpassphrase FluffyBunny58 99999999
+walletpassphrase FluffyBunny58 0
 ```
-The 99999999 is the amount of seconds you want the wallet to be unlocked. 
+The 0 is for the wallet to be unlocked until it is locked again. 
 
-5. If both commands succedde, there will be no return result. It will be a blank line.
+5. If both commands succeeded, there will be no return result. It will be a blank line.
 
 6. The file will now be located where the Electra QT Wallet runs. Example, most people on Windows for example use a shortcut to start the wallet from the start menu or desktop. The file is where the actual .exe of the Electra QT Wallet program is located. On Windows, it's located in:
 ```
@@ -32,17 +32,17 @@ C:\Program Files\Electra\
 ```
 Now you will find your new dumped file in there! If you used the .txt extension above, it will be able to be opened with your default text editor (Notepad, Vim, Notepadd++, TextEdit, etc)
 
-5. Keep this file safe as it has many many private keys!
+5. Keep this file safe as it has many private keys!
 
 ### Dump Private Key of Address
 1. Open up your Electra QT Wallet
-2. Unlock your wallet (make sure you leave the box uncheked for staking only)
+2. Unlock your wallet (make sure you leave the box unchecked for staking only)
 3. Go to Tools --> Debug Console
-4. The format for the command to dump the private key for the indiviual address is:
+4. The format for the command to dump the private key for the individual address is:
 ```
 dumpprivkey MyAddressHere
 ```
-Where do I find my Receiving Addresses? Don't use the Recieve tab on the side! It does not have all your created addresses.
+Where do I find my Receiving Addresses? Don't use the Reeive tab on the side! It does not have all your created addresses.
 
 5. Instead, go to File (on Mac, it's tab Electra on top left), then choose Receiving Addresses
 
@@ -95,7 +95,7 @@ If successful, after some time, you wallet should be fully imported!
 ```
 importprivkey PrivateKeyGoesHere MyLabel rescan
 ```
-Let's go over what is above. Importprivkey command is of course the command to import the private key. PrivateKeyGoesHere is the actual private key you dumped using the section above. MyLabel is the label you want to give the new imported key as it will be an address in your wallet. Example you may call it Checking or MyFavoriteAccount, whatever you want. Rescan command will when imported, will rescan the blockchain for any transactions that is used by this privatekey / address.
+Let's go over what is above. Importprivkey command is of course the command to import the private key. PrivateKeyGoesHere is the actual private key you dumped using the section above. MyLabel is the label you want to give the new imported key as it will be an address in your wallet. Example you may call it Checking or MyFavoriteAccount, whatever you want. Rescan command will when imported, will rescan the blockchain for any transactions that is used by this private key / address.
 
 ## Protecting Your wallet.dat
 
@@ -126,6 +126,6 @@ This will list all the commands that have been programmed into the wallet.
 
 **NOTE** All commands may not function / may not work fully. Use at your own risk! Backup wallet before you try any if you are unsure of what you are doing. This was a fork from PIVX as some of the commands may look very familiar.
 
-## Mnenomic Phrases
+## Mnemonic Phrases
 
-The Mnenomic Phrase is a random list of words that when used and used in a specifc order, create your wallet. Instead of typing up easy to mistype hashes, this phrase replaces that and makes it easier for the average human to work with. The only platforms as of creation of this article that use Mnenomic Phrases for Electra are the old Electra Desktop Wallet and the Electra Mobile Wallet. These two are NOT compatibile with eachother. The mnenomic phrase is not supported in the QT wallet but still can be used to recover your wallet through a process.
+The Mnemonic Phrase is a random list of words that when used and used in a specific order, create your wallet. Instead of typing up easy to mistype hashes, this phrase replaces that and makes it easier for the average human to work with. The only platforms as of creation of this article that use Mnemonic Phrases for Electra are the old Electra Desktop Wallet and the Electra Mobile Wallet. These two are NOT compatible with each other. The mnemonic phrase is not supported in the QT wallet but still can be used to recover your wallet through a process.

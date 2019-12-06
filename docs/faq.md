@@ -57,7 +57,7 @@ Read this link to find out the story behind Electra!
 <details><summary>I want to help with the project, but I am not that good at coding. How can I help?</summary>
 <p>
 <br />
-This project needs a ton of volunteers from project managers, coders, support team, documentation writers, marketers, etc. You have any skill using a computer or with cordinating projects, we could use your help! We want to get to know you first so show some support and have discussions on our main forms of communication. Then let us know your interested in helping out. Do note, that being on the team doesn't give you "secret access" or anything like that.
+This project needs a ton of volunteers from project managers, coders, support team, documentation writers, marketers, etc. You have any skill using a computer or with coordinating projects, we could use your help! We want to get to know you first so show some support and have discussions on our main forms of communication. Then let us know your interested in helping out. Do note, that being on the team doesn't give you "secret access" or anything like that.
 </p>
 </details>
 

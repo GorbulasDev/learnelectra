@@ -19,6 +19,6 @@ For MacOS, it is slightly different. Follow the steps below:
 2. In the very top of the screen, select the menu option, "Electra" (should be very top left)
 3. Go to Backup Wallet
 
-The video below is on Winodws but Linux has the same menu.
+The video below is on Windows but Linux has the same menu.
 
 [![wallet_backup](https://img.youtube.com/vi/Vws7WJxMuP4/0.jpg)](https://www.youtube.com/watch?v=Vws7WJxMuP4 "Electra ECA Wallet Backup")

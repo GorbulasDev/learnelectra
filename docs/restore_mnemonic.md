@@ -13,7 +13,7 @@ There is a video to follow at the bottom of the page. Feel free to use that with
 
 ### Follow These Steps
 
-1. If this is for a computer with no Electra Wallet currenlty installed go to step 4, otherwise if you have a wallet currently installed go to step 2.
+1. If this is for a computer with no Electra Wallet currently installed go to step 4, otherwise if you have a wallet currently installed go to step 2.
 2. Backup any wallet.dat using our link [HERE](backup.md) first just in case.
 3. Uninstall any Electra Wallet you may have installed on your computer. Do so through add remove programs and also using these steps:
    
@@ -23,7 +23,7 @@ There is a video to follow at the bottom of the page. Feel free to use that with
    ```
    %APPDATA%
    ```
-   - Press Enter and yoru Roaming folder will appear.
+   - Press Enter and your Roaming folder will appear.
    - In this folder, removed any folder called Electra or Electra Desktop
 
    Linux:
@@ -42,7 +42,7 @@ There is a video to follow at the bottom of the page. Feel free to use that with
    ```
    ~/Library/Application Support and then click on Go
    ```
-   *   Delete any folders in here called Electra or Electra Destop
+   *   Delete any folders in here called Electra or Electra Desktop
 
 4. Download and install Electra Desktop Wallet ver. 1.0.6 from this link for your OS version [https://github.com/Electra-project/electra-desktop/releases/tag/v1.0.6](https://github.com/Electra-project/electra-desktop/releases/tag/v1.0.6)
    - You may have to expand the Assets tab to see the downloads
@@ -59,7 +59,7 @@ There is a video to follow at the bottom of the page. Feel free to use that with
 
 10. Your balance will be 0 at this time. This is normal. DO NOT WAIT for a full sync now as you will be on the wrong blockchain. At this point FULLY close the wallet.
 
-11. Next download the new wallet from our github. Ensure you get the correct one for you OS. [https://github.com/Electra-project/electra-core/releases](https://github.com/Electra-project/electra-core/releases)
+11. Next download the new wallet from our Github. Ensure you get the correct one for you OS. [https://github.com/Electra-project/electra-core/releases](https://github.com/Electra-project/electra-core/releases)
 
 12. Install the wallet as normal. DO NOT uninstall the Electra Desktop Wallet at this time.
 
