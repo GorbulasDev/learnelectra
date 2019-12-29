@@ -24,9 +24,11 @@ walletpassphrase FluffyBunny58 0
 ```
 The 0 is for the wallet to be unlocked until it is locked again. 
 
+4a. If you still receive an error, it means the file location the Electra application is launched from is protected. To get around this, copy and paste the electra-qt.exe file to your Desktop. Then run the commands again.
+
 5. If both commands succeeded, there will be no return result. It will be a blank line.
 
-6. The file will now be located where the Electra QT Wallet runs. Example, most people on Windows for example use a shortcut to start the wallet from the start menu or desktop. The file is where the actual .exe of the Electra QT Wallet program is located. On Windows, it's located in:
+6. The file will now be located where the Electra QT Wallet runs (or on the Desktop if you did step 4a above). Example, most people on Windows for example use a shortcut to start the wallet from the start menu or desktop. The file is where the actual .exe of the Electra QT Wallet program is located. On Windows, it's located in:
 ```
 C:\Program Files\Electra\
 ```
