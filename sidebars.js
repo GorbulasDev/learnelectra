@@ -12,7 +12,7 @@ module.exports = {
     'Electra (ECA) Currency': ['where_how'],
     'Electra QT Wallet': ['test1', 'qt_safety', 'backup', 'restore_dat', 'restore_mnemonic', 'pdf_guides'],
     'Other Types of Wallets': ['mobile_hardware'],
-    ElectraPay:['electrapay_account', 'electrapay_setup', 'starter_guide', 'registration', 'electrapay_support'],
+    ElectraPay:['electrapay_account', 'electrapay_setup', 'registration', 'electrapay_support'],
     'Frequently Asked Questions': ['faq'],
     'Electra Project Archives': ['archive'],
   },
