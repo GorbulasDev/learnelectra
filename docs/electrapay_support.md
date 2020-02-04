@@ -6,7 +6,7 @@ title: ElectraPay Support
 ## FAQ - Frequently Asked Questions
 
 ### Are Atomic Swaps supported?
-At this time, no. We are anticipating a "second" phase for ElectraPay where this feature will be heavily looked at.
+Currently, no. We are anticipating a "second" phase for ElectraPay where this feature will be heavily looked at.
 
 ### What Coins / Tokens will be supported?
 Here is a list of current supported coins for ElectraPay:
@@ -14,13 +14,13 @@ Here is a list of current supported coins for ElectraPay:
 - Bitcoin (BTC)
 
 ### Is KYC (Know Your Customer) needed to use ElectraPay?
-No, KYC will not be used as ElectraPay does not use any fiat curriencies. Though this may change in the future for certian laws, we are aware you want to keep your information private. Please note, we do want you to enter is basic information for the sole purpose that businesses can know who they may be working with.
+No, KYC will not be used as ElectraPay does not use any fiat currencies. Though this may change in the future for certain laws, we are aware you want to keep your information private. Please note, we do want you to enter is basic information for the sole purpose that businesses can know who they may be working with.
 
 ### Do ElectraPay accounts provide staking?
 No, ElectraPay is meant to be used for transactions. Staking requires your coins to not be moved around for a period of time thus, it would not make sense to have staking.
 
 ### What products can be sold through ElectraPay?
-ElectraPay is a gateway for payment, not an online store. We have ways to easily incorporate ElectraPay into your current payment gateways, especially if you currently use Wordpress.
+ElectraPay is a gateway for payment, not an online store. We have ways to easily incorporate ElectraPay into your current payment gateways, especially if you currently use WordPress.
 
 ### I have an idea for a new feature. Can we email the idea to your team?
 Yes! You most certainly can! You can email us at this email address: ADDEMAILHERE

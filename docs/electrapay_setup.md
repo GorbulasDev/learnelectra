@@ -5,15 +5,15 @@ title: ElectraPay Plugin Install and Setup
 
 ## How to Install the ElectraPay WordPress Plugin
 
-ElectraPay can be easily setup and installed as a Wordpress Plugin. At this time, the plugin cannot be searched on the plugin page in Admin panels under Wordpress. The team is working on this and wants to submit a perfect working product before we submit it to the Wordpress Plugin site.
+ElectraPay can be easily setup and installed as a WordPress plugin. At this time, the plugin cannot be searched on the plugin page in Admin panels under WordPress. The team is working on this and wants to submit a perfect working product before we submit it to the WordPress plugin site.
 
-In the mean time, you can easily setup the plugin by manually downloading and installing through your Wordpress Plugin page on the backend of your website. Under normal Wordpress installs, navigate to the Plugins section on the Dashboard of your website.
+In the mean time, you can easily setup the plugin by manually downloading and installing through your WordPress Plugin page on the backend of your website. Under normal WordPress installs, navigate to the Plugins section on the Dashboard of your website.
 
 At the top of the web page, press Add New.
 
 ![Add New](../img/add_new.png)
 
-Download the Wordpress ElectraPay plugin from this FUTURE LINK HERE and upload it to your website. DO NOT EXTRACT THE FILE. 
+Download the WordPress ElectraPay plugin from this FUTURE LINK HERE and upload it to your website. DO NOT EXTRACT THE FILE. 
 
 ![Github](../img/github.png)
 
@@ -25,7 +25,7 @@ Then click on Choose File and navigate to where the plugin is downloaded on your
 
 ![Choose File](../img/choose_file.png)
 
-Once Woocommerce is installed, activate the ElectaPay Gateway plugin.
+Once WooCommerce is installed, activate the ElectraPay Gateway plugin.
 
 ![Activate](../img/activate.png)
 
@@ -39,11 +39,11 @@ After that, find the Payments tab. You will then see ElectraPay listed under the
 
 Click the Set Up button to configure the plugin. 
 
-Follow the steps below to contiune setup. Use the image below for reference.
+Follow the steps below to continue setup. Use the image below for reference.
 * Click the checkbox to enable the ElectraPay Gateway Plugin in the customers cart and make it visible. 
 * Feel free to change the Title and Description to fit your needs. We recommend keeping the text with the words ElectraPay for customers to know this is the ElectraPay option.
-* The default API url is the most current one to use. Your Account ID will be found on the electrapayonline website in your Account. At the time of writing this article, it should be just a simple number. You will be able to generate your API key from the Settings menu option on the electrapayonline website in your account.
-* Pick the correct Payment Status Update..... Not sure what this is yet. Guess for automated use or not.
+* The default API URL is the most current one to use. Your Account ID will be found on the electrapayonline website in your Account. At the time of writing this article, it should be just a simple number. You will be able to generate your API key from the Settings menu option on the electrapayonline website in your account.
+* Pick the correct Payment Status Update
 
 ![Plugin Settings](../img/plugin_settings.png)
 
