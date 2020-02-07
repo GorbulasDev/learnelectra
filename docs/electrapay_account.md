@@ -5,7 +5,7 @@ title: Account Page Setup
 
 ## Account Page
 
-In this page you will find a number of options to customize your ElectraPay experience. This guide will give you some more information to each box.
+On this page, you will find several options to customize your ElectraPay experience. This guide will give you some more information for each box.
 
 ### Personal Information
 * **Account Name** - The username you entered when creating your account
@@ -17,12 +17,12 @@ In this page you will find a number of options to customize your ElectraPay expe
 This information is used to identify yourself.
 
 ### Payment Details
-* **Callback URL** - The web address or url where after crypto payment is made, user will be sent to that page (example: Thank You webpage)
+* **Callback URL** - The web address or url where after crypto payment is made, the user will be sent to that page (example: Thank You page)
 * **Currency** - What is the main currency that will be used on your store besides ECA? Ensure to have at least one selected to avoid errors.
-* **Ecommerce Plugin** - Select the platform on your website that is used that will interface with ElectraPay.
-* **Wallet Address** - The wallet address where ECA will be sent to from customers
+* **eCommerce Plugin** - Select the platform on your website that will interface with ElectraPay.
+* **Wallet Address** - The wallet address where ECA will be sent
 * **Wallet Currency** - Ensure you have the correct form of currency that will be accepted with ElectraPay.
-* **Website** - Enter the website 
+* **Website** - Enter the website address
 
 ### Contact Person Information
 
@@ -34,4 +34,4 @@ Used to enter in VAT information about your organization, if it applies.
 
 ## Settings Page
 
-This section is used to generate your API key to interface with the plugin of your choice. It also has extra settings for payment rules such as to give a percentage to the Electra Foundation if you desire or how many confirmations before payment is accepted.
+This section is used to generate your API key to interface with the plugin of your choice. It also has extra settings for payment rules, such as to give a percentage to the Electra Foundation if you desire or how many confirmations before payment is accepted.
