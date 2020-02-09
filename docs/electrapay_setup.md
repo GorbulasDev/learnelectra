@@ -11,31 +11,31 @@ In the meantime, you can easily set up the plugin by manually downloading and in
 
 Download the WordPress ElectraPay plugin from this FUTURE LINK HERE and upload it to your website. DO NOT EXTRACT THE FILE.
 
-![Github](../img/github.png)
+![Github](/img/github.png)
 
 At the top of the Dashboard, press Add New.
 
-![Add New](../img/add_new.png)
+![Add New](/img/add_new.png)
 
 Click on Upload Plugin.
 
-![Upload Plugin](../img/add_plugin.png)
+![Upload Plugin](/img/add_plugin.png)
 
 Click on Choose File and navigate to where the plugin is downloaded on your computer. Then click Install Now.
 
-![Choose File](../img/choose_file.png)
+![Choose File](/img/choose_file.png)
 
 Once the WooCommerece ElectraPay Plugin is installed, activate the ElectraPay Gateway plugin.
 
-![Activate](../img/activate.png)
+![Activate](/img/activate.png)
 
 Next, on the Dashboard find the WooCommerce tab. Expand it to reveal the Settings tab.
 
-![Settings](../img/settings.png)
+![Settings](/img/settings.png)
 
 After that, find the Payments tab. You will then find ElectraPay listed as an option.
 
-![Payments](../img/payments.png)
+![Payments](/img/payments.png)
 
 Click the Set Up button to configure the plugin. 
 
@@ -45,7 +45,7 @@ Follow the steps below to continue setup. Use the image below for reference.
 * The default API URL is the most current one to use. Your Account ID will be found on the electrapayonline website in your Account. At the time of writing this article, it should be just a simple number. You will be able to generate your API key from the Settings menu option on the electrapayonline website in your account.
 * Pick the correct Payment Status Update
 
-![Plugin Settings](../img/plugin_settings.png)
+![Plugin Settings](/img/plugin_settings.png)
 
 Once you have the above configured, save your changes and go back to the screen with the Payments tab selected and enable the ElectraPay payment option.
 
