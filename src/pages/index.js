@@ -16,7 +16,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Easy to Learn</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+   // imageUrl: 'img/electra_black_background_small.svg',
     description: (
       <>
         Learning cryptocurrency can be tough! We make it easy.
@@ -25,7 +25,7 @@ const features = [
   },
   {
     title: <>Get Educated</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+  //  imageUrl: 'img/electra_black_background_small.svg',
     description: (
       <>
         Educating yourself on how Electra works and how it can be used in various ways is important to making sound investments.
@@ -34,7 +34,7 @@ const features = [
   },
   {
     title: <>Grow Your Understanding</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+  //  imageUrl: 'img/electra_black_background_small.svg',
     description: (
       <>
         Understanding about the project and the many ways Electra affects the crypto space is important! Use this document site to grow your knowledge.
