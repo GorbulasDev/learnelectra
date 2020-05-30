@@ -24,6 +24,10 @@ This information is used to identify yourself.
 * **Wallet Currency** - Ensure you have the correct form of currency that will be accepted with ElectraPay.
 * **Website** - Enter the website address
 
+### Callback URL Extra Details
+This section explains extra details and options of the Callback URLs as how it works server side. This shows the coding how the Callback URL works.
+* **WordPress / WooCommerce Plugin** - (websiteUrl + "?wc-api=wc_electrapay")
+
 ### Contact Person Information
 
 This section is for users to know who to contact if they have questions about the payment.

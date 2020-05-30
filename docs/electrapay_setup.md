@@ -9,7 +9,7 @@ ElectraPay WordPress plugin is an easy to install WordPress plugin. WooCommerce 
 
 In the meantime, you can easily set up the plugin by manually downloading and installing through your WordPress Plugin page on the backend of your website. To do so, navigate to the Plugins section on your WordPress Dashboard and follow the steps below.
 
-Download the WordPress ElectraPay plugin from this FUTURE LINK HERE and upload it to your website. DO NOT EXTRACT THE FILE.
+Download the WordPress ElectraPay plugin from this <a href="https://github.com/Electra-project/ElectraPay/releases">https://github.com/Electra-project/ElectraPay/releases</a> and upload it to your website. DO NOT EXTRACT THE FILE.
 
 ![Github](/img/github.png)
 
