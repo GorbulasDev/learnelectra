@@ -71,28 +71,3 @@ You do? What are you waiting for? Let us know!
 
 <br />
 
-<details><summary>text</summary>
-<p>
-<br />
-More Text Here
-</p>
-</details>
-
-<br />
-
-<details><summary>text</summary>
-<p>
-<br />
-More Text Here
-</p>
-</details>
-
-<br />
-
-<details><summary>text</summary>
-<p>
-<br />
-More Text Here
-</p>
-</details>
-

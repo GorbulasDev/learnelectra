@@ -15,3 +15,4 @@ title: Electra Coin Stats and General Info
 * Difficulty re-target: Every Block
 * Min Fee: 0.00001 ECA
 * Pre-mine: 3.34% of 30B ECA (one of the lowest on the market)
+* Max Current Transactions per Second (TPS): 800
