@@ -46,4 +46,4 @@ In order to receive any other crypto currency, you more than likely need to use 
 
 Each exchange has it's own set of rules, laws, and regulations, all through each location country and the user purchasing crypto has to follow the regulations of their own country. This also brings KYC, Know your Customer, in to play. You are required by some exchanges to provide personal info, including social security number for a number of American exchanges, to purchase crypto. As these safeguards may be burdensome, they are required. Please refer to your local laws for any legal and financial questions.
 
-![Buy Electra](../img/electra_project_presents.png)
+![Buy Electra](/img/electra_project_presents.png)

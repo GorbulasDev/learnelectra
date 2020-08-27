@@ -10,6 +10,7 @@ module.exports = {
   tagline: 'To learn, educate, and grow',
   url: 'https://educate.electraproject.org',
   baseUrl: '/',
+  onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'electraproject', // Usually your GitHub org/user name.
   projectName: 'learnelectra', // Usually your repo name.
@@ -20,8 +21,8 @@ module.exports = {
         alt: 'My Site Logo',
         src: 'img/electravec.svg',
       },
-      links: [
-        {to: 'docs/intro_guide', label: 'Docs', position: 'left'},
+      items: [
+        {to: 'docs/intro_guide', label: 'Docs', activeBasePath: 'docs', position: 'left'},
         {to: 'blog', label: 'Dev Talk', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',

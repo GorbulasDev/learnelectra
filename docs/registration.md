@@ -7,7 +7,7 @@ title: How to Sign Up for ElectraPay
 Follow these directions to sign up for ElectraPay.
 
 1. Click Register on the top right of the web page
-![Registration](../img/register.png)
+![Registration](/img/register.png)
 
 2. On the next page, complete the following:
 * Create an account name
@@ -16,32 +16,32 @@ Follow these directions to sign up for ElectraPay.
   * Personal – for everyday use, think of it as your checking account
   * Business – an account where funds are sent to a pool and withdrawn from the pool, businesses should choose this option
   * Non-Profit – perfect option for charities, small groups, or anyone who does not take funds for personal use or give funds to shareholders
-![createname](../img/create_name.png)
+![createname](/img/create_name.png)
 
 3. Next input your region settings:
 * Select your country – if your country is not listed, please inquiry with the ElectraPay Support Team
 * Timezone – this will aid in collecting correct data for transactions and other reports
 * Choose your language – any changes needed please inform ElectraPay Support
-![createregion](../img/create_area.png)
+![createregion](/img/create_area.png)
 
 4. Your wallet and currency will be needed on the next screen:
 * Wallet Currency – please choose one main currency choice. Other currencies may be added in the future, but for now, the options are Bitcoin and Electra
 * Wallet Address – go into a wallet of your choice (mobile, computer, exchange – exchange not recommended though), and create a new address. Do not put an amount in if it has the option. Copy and paste this address into the wallet address placeholder
-![createcurrency](../img/create_currency.png)
+![createcurrency](/img/create_currency.png)
 
 5. Finally enter your contact information: 
 * Enter your user information:
   * First Name, Last name, Email
     * Please use real information. Using false information will void any sort of support as we will be unable to verify who funds or accounts may actually belong to
-![createcontact](../img/create_contact.png)
+![createcontact](/img/create_contact.png)
 
 6. After you submit your info, you need to confirm it in your email (Check your Spam Folder)
-![confirm](../img/confirm.png)
+![confirm](/img/confirm.png)
 
 7. After confirming the email, you need to create a password. Passwords should contain at least one capital letter, one lowercase letter, and one number is minimal with a symbol
-![setpassword](../img/set_password.png)
+![setpassword](/img/set_password.png)
 
 8. Finally,you need log into ElectraPay with your information.
-![login](../img/login.png)
+![login](/img/login.png)
 
 9. If you arrive at an account screen, you have successfully created an account!
