@@ -23,7 +23,6 @@ module.exports = {
       },
       items: [
         {to: 'docs/intro_guide', label: 'Docs', activeBasePath: 'docs', position: 'left'},
-        {to: 'blog', label: 'Dev Talk', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -62,15 +61,6 @@ module.exports = {
             {
               label: 'Docusaurus Discord',
               href: 'https://discordapp.com/invite/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'Social',
-          items: [
-            {
-              label: 'Dev Talk',
-              to: 'blog',
             },
           ],
         },
