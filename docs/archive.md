@@ -1,6 +1,6 @@
 ---
 id: archive
-title: Electra Project Archives
+title: Electra Protocol Archives
 ---
 
 ## Outdated PDFs

@@ -6,17 +6,17 @@
  */
 
 module.exports = {
-  title: 'Learn Electra Project',
+  title: 'Electra Protocol Education',
   tagline: 'To learn, educate, and grow',
-  url: 'https://educate.electraproject.org',
+  url: 'https://learn.electraprotocol.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'electraproject', // Usually your GitHub org/user name.
+  organizationName: 'electraprotocol', // Usually your GitHub org/user name.
   projectName: 'learnelectra', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Learn Electra',
+      title: 'Electra Protocol',
       logo: {
         alt: 'My Site Logo',
         src: 'img/electravec.svg',
@@ -43,7 +43,7 @@ module.exports = {
           ],
         },
         {
-	  title: 'Electra Project Community',
+	  title: 'Electra Protocol Community',
 	  items: [
 	    {
 	      label: 'Discord',
@@ -51,7 +51,7 @@ module.exports = {
 	    },
 	    {
 	      label: 'Main Website',
-	      href: 'https://electraproject.org',
+	      href: 'https://electraprotocol.org',
 	    },
           ],
         }, 
@@ -66,10 +66,10 @@ module.exports = {
         },
       ],
       logo: {
-        alt: 'Electra Project Logo',
+        alt: 'Electra Protocol Logo',
         src: 'https://raw.githubusercontent.com/Electra-project/Electra-Media-Kit/master/Electra%20Logo/White%20logo/Electra%20White%20logo%20small.png',
       },
-      copyright: `Copyright © ${new Date().getFullYear()} Electra Project. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Electra Protocol. Built with Docusaurus.`,
     },
   },
   presets: [

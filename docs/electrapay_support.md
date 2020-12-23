@@ -23,7 +23,7 @@ No, ElectraPay is meant to be used for transactions. Since staking requires your
 ElectraPay is a gateway for payment, not an online store. Businesses or individuals who have an online store that utilizes WordPress or other various online store software, can use ElectraPay to collect cryptocurrency payments.
 
 ### I have an idea for a new feature. Can we email the idea to your team?
-Yes, you most certainly can! You can email us at this email address: support@electraproject.org
+Yes, you most certainly can! You can email us at this email address: support@electraprotocol.org
 
 ### Can I use a VPN and ElectraPay?
 As ElectraPay is not a wallet, you can certainly use a VPN.
@@ -38,4 +38,4 @@ Since ElectraPay does not use local file hosting, your coins and addresses are s
 The only way someone can gain access to your account is if you give them your password to access it.
 
 ### Does the Electra Team have access to my account?
-No! This is why it is very important to keep your passwords safe and to yourself! Never share your password with anyone, even if they claim to be from the ElectraProject and offer you assistance of any kind.
+No! This is why it is very important to keep your passwords safe and to yourself! Never share your password with anyone, even if they claim to be from the Electra Protocol and offer you assistance of any kind.

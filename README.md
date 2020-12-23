@@ -8,6 +8,12 @@ This website is built using Docusaurus 2, a modern static website generator.
 $ yarn
 ```
 
+### If Pulled From Github
+
+```
+$ yarn init
+```
+
 ### Local Development
 
 ```

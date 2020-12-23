@@ -15,6 +15,6 @@ module.exports = {
     'Paper Wallet': ['paper_import'],
     ElectraPay:['getting_started_with_electrapay', 'electrapay_account', 'electrapay_setup', 'registration', 'electrapay_support'],
     'Frequently Asked Questions': ['faq'],
-    'Electra Project Archives': ['archive'],
+    'Electra Protocol Archives': ['archive'],
   },
 };

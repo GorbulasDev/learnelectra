@@ -1,6 +1,6 @@
 {
-  "name": "electraproject",
-  "version": "0.0.0",
+  "name": "electraprotocol",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -29,5 +29,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/nashsclay/learnelectra.git",
+  "author": "nashsclay <nashsclay@gmail.com>",
+  "license": "MIT"
 }

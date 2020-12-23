@@ -33,6 +33,6 @@ WIP
 
 ## Paper Wallets
 
-This paper wallet is hosted and created on a 3rd party website which means the Electra Project does not officially support this page. We will certainly help you import your keys when this used but the Electra Team has nothing to do with this page. Use at your own risk!
+This paper wallet is hosted and created on a 3rd party website which means Electra Protocol does not officially support this page. We will certainly help you import your keys when this used but the Electra Team has nothing to do with this page. Use at your own risk!
 *   [Create Paper Wallet on Walletgenerator.net](https://walletgenerator.net/?currency=ELECTRA)
 *   [Paper Wallet Import Guide](https://electra-support.org/wallet-help/paper-wallet-import-guide/)
