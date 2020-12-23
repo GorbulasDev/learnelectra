@@ -7,7 +7,7 @@ title: I Have the Basics. Now Teach Me More!
 Private keys, priv keys, what does all this mean? These are hashes that are a long chain of letters and numbers. With these keys, they hold the access to your coins on the blockchain. Your wallet stores these keys, in short, your wallet never stores actual coins. It retrieves the coins associated with the private keys in your wallet on the blockchain and displays them on your wallet.
 
 ### Dump Private Keys Using Wallet Dump
-1. Open your Electra Protocol QT Wallet
+1. Open your XEP Wallet
 2. Unlock your wallet (make sure you leave the box unchecked for staking only)
 3. Go to Tools --> Debug Console
 4. The format for the command to dump the file is:
@@ -28,7 +28,7 @@ The 0 is for the wallet to be unlocked until it is locked again.
 
 5. If both commands succeeded, there will be no return result. It will be a blank line.
 
-6. The file will now be located where the Electra Protocol QT Wallet runs (or on the Desktop if you did step 4a above). Example, most people on Windows for example use a shortcut to start the wallet from the start menu or desktop. The file is where the actual .exe of the Electra Protocol QT Wallet program is located. On Windows, it's located in:
+6. The file will now be located where the XEP Wallet runs (or on the Desktop if you did step 4a above). Example, most people on Windows for example use a shortcut to start the wallet from the start menu or desktop. The file is where the actual .exe of the XEP Wallet program is located. On Windows, it's located in:
 ```
 C:\Program Files\Electra\
 ```
@@ -37,7 +37,7 @@ Now you will find your new dumped file in there! If you used the .txt extension 
 5. Keep this file safe as it has many private keys!
 
 ### Dump Private Key of Address
-1. Open up your Electra Protocol QT Wallet
+1. Open up your XEP Wallet
 2. Unlock your wallet (make sure you leave the box unchecked for staking only)
 3. Go to Tools --> Debug Console
 4. The format for the command to dump the private key for the individual address is:
@@ -63,13 +63,13 @@ dumpprivkey YourCopiedAddressHere
 ### Import Private Keys from Wallet Dump
 If you have your wallet dump file, you can import it! This is not importing a wallet.dat file but rather a text file usually as I have mentioned above. Here are the steps to import the dumped wallet file. Make a backup of your current wallet first before continuing!
 
-1. Open up your Electra Protocol QT Wallet
+1. Open up your XEP Wallet
 
 2. Unlock your wallet (make sure you leave the box unchecked for staking only)
 
 3. Go to Tools --> Debug Console
 
-4. Ensure the wallet dumped file is in the same location as the exe file of the Electra Protocol QT Wallet program.
+4. Ensure the wallet dumped file is in the same location as the exe file of the XEP Wallet program.
 - Again, that location on Windows for example is:
 ```
 C:\Program Files\Electra\
@@ -87,7 +87,7 @@ If successful, after some time, you wallet should be fully imported!
 
 ### Import Private Keys from Address Private Key
 
-1. Open up your Electra Protocol QT Wallet
+1. Open up your XEP Wallet
 
 2. Unlock your wallet (make sure you leave the box unchecked for staking only)
 
@@ -117,7 +117,7 @@ Linux:
 ```
 
 ## Commands in Debug Console and CLI
-1. Open up your Electra Protocol QT Wallet
+1. Open up your XEP Wallet
 2. Unlock your wallet (make sure you leave the box unchecked for staking only)
 3. Go to Tools --> Debug Console
 4. Type in the command on the Debug Console:

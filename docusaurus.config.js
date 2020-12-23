@@ -67,7 +67,7 @@ module.exports = {
       ],
       logo: {
         alt: 'Electra Protocol Logo',
-        src: 'https://raw.githubusercontent.com/Electra-project/Electra-Media-Kit/master/Electra%20Logo/White%20logo/Electra%20White%20logo%20small.png',
+        src: '/img/electra.png',
       },
       copyright: `Copyright © ${new Date().getFullYear()} Electra Protocol. Built with Docusaurus.`,
     },

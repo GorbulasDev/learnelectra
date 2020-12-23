@@ -15,7 +15,7 @@ title: XEP Stats and General Info
 * Block Size: 10MB (Dynamic)
 * Difficulty re-target: Every Block
 * Min Fee: 0.00001 XEP
-* Pre-mine: 3.34% of 30B XEP (one of the lowest on the market) #update me please
+* Pre-mine: TBD
 * Max Current Transactions per Second (TPS): 1600+
 * Max Supply: No
 * Coin Maturity: 12 hours

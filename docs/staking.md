@@ -9,15 +9,15 @@ When working with POS coins (Proof-of-stake, yes, we know the acronym is not ide
 
 ### How Do I Stake / Mine Electra?
 
-In short, you can't. Mining is usually associated with POW. Mining that most people know is that you need a rig / CPUs / GPUs to work out equations and do high powered work to solve equations. Once completed, there is usually a reward if you do so before other miners. With Electra, we don't use POW. POW was only enabled for the premine and the first 24 hours of the coin's inception. Though this topic maybe of some controversy, let's focus on mining itself. With Electra, since we are only POS, you only need an Electra wallet (certain wallets apply), ECA (Electra coins) in the wallet, and an active internet connection.
+In short, you can't. Mining is usually associated with POW. Mining that most people know is that you need a rig / CPUs / GPUs to work out equations and do high powered work to solve equations. Once completed, there is usually a reward if you do so before other miners. With Electra, we don't use POW. POW was only enabled for the premine and the first 24 hours of the coin's inception. Though this topic maybe of some controversy, let's focus on mining itself. With Electra, since we are only POS, you only need an Electra wallet (certain wallets apply), XEP (Electra Protocol coins) in the wallet, and an active internet connection.
 
-Here is the list of what is needed per the Electra QT Wallet to stake. 
+Here is the list of what is needed per the XEP Wallet to stake. 
 
-**NOTE**: As of this time of the page, only Electra QT Wallet supports staking. Other services or exchanges may support it as well.
+**NOTE**: As of this time of the page, only XEP Wallet supports staking. Other services or exchanges may support it as well.
 
 ## The Checklist
 
-Here is the checklist of required items per the Electra QT Wallet:
+Here is the checklist of required items per the XEP Wallet:
 
 - [ ] Active internet connection
 - [ ] Use a current supported Electra Wallet (ask User Support if you are not sure)
@@ -26,7 +26,7 @@ Here is the checklist of required items per the Electra QT Wallet:
 - [ ] Wallet unlocked
 - [ ] Mintable coins
 - [ ] Enough coins
-- [ ] Fully synced Electra QT Wallet
+- [ ] Fully synced XEP Wallet
 
 Let's review these lists and try to understand what each means in simple terms.
 

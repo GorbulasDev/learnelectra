@@ -9,8 +9,9 @@ module.exports = {
   docs: {
     'Beginners Guide': ['intro_guide', 'i_am_advance', 'staking'],
     'Electra Info and Stats': ['info'],
-    'Electra (ECA) Currency': ['where_how'],
-    'Electra QT Wallet': ['test1', 'qt_safety', 'backup', 'restore_dat', 'restore_mnemonic', 'out_of_sync', 'pdf_guides'],
+    'Electra Protocol (XEP) Currency': ['where_how'],
+    'XEP Wallet': ['xep_test1', 'xep_qt_safety', 'xep_backup', 'xep_paper_import', 'xep_restore_dat', 'xep_out_of_sync'],
+    'Electra QT Wallet (outdated)': ['test1', 'qt_safety', 'backup', 'restore_dat', 'restore_mnemonic', 'out_of_sync', 'pdf_guides'],
     'Other Types of Wallets': ['mobile_hardware'],
     'Paper Wallet': ['paper_import'],
     ElectraPay:['getting_started_with_electrapay', 'electrapay_account', 'electrapay_setup', 'registration', 'electrapay_support'],
