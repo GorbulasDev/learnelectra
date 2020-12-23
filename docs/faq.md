@@ -4,9 +4,9 @@ title: Frequently Asked Questions and Issues
 ---
 
 ## FAQ
-Below is a list of commonly asked questions about Electra or the Electra QT Wallet. We have tried to answer them to the best of our ability. (Click on the question text to expand the answer)
+Below is a list of commonly asked questions about Electra Protocol or the Electra Protocol QT Wallet. We have tried to answer them to the best of our ability. (Click on the question text to expand the answer)
 
-<details><summary>When will Electra incorporate Masternodes?</summary>
+<details><summary>When will Electra Protocol incorporate Masternodes?</summary>
 <p>
 <br />
 At this time, masternodes will not be supported. This is due to the current supply and the rewards of the masternodes will not offset the cost of hosting. Our chain at this point is highly stable and thus masternodes are not needed.
@@ -38,7 +38,7 @@ It's not possible with current technology. As they need to be online and current
 <details><summary>Where are the staking pools at?</summary>
 <p>
 <br />
-As the saying goes, not your keys, not your coins. With staking pools, the person who runs them has the private keys. This allows them to access your coins at ANY time and stake them how they wish or even move your coins. Yes, everyone wants to make more Electra! But at the expense to have your coins vulnerable, the Electra Team does not support it. This is not stopping individuals to make their own staking pools but this is why we do not support voting on those type of listings. As it is common if something happens to a user's coins, Electra Team is blamed. Stay safe and hold your own coins.
+As the saying goes, not your keys, not your coins. With staking pools, the person who runs them has the private keys. This allows them to access your coins at ANY time and stake them how they wish or even move your coins. Yes, everyone wants to make more XEP! But at the expense to have your coins vulnerable, the Electra Protocol Team does not support it. This is not stopping individuals to make their own staking pools but this is why we do not support voting on those type of listings. As it is common if something happens to a user's coins, Electra Protocol Team is blamed. Stay safe and hold your own coins.
 </p>
 </details>
 
@@ -47,7 +47,7 @@ As the saying goes, not your keys, not your coins. With staking pools, the perso
 <details><summary>What is this story behind this coin?</summary>
 <p>
 <br />
-Read this link to find out the story behind Electra!
+Read this link to find out the story behind Electra Protocol!
 </p>
 </details>
 
@@ -62,7 +62,7 @@ This project needs a ton of volunteers from project managers, coders, support te
 
 <br />
 
-<details><summary>I have an idea for Electra?</summary>
+<details><summary>I have an idea for Electra Protocol?</summary>
 <p>
 <br />
 You do? What are you waiting for? Let us know!

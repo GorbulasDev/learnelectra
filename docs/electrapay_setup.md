@@ -5,7 +5,7 @@ title: ElectraPay Plugin Install and Setup
 
 ## How to Install and Setup the ElectraPay WordPress Plugin
 
-ElectraPay WordPress plugin is an easy to install WordPress plugin. WooCommerce must be installed as well before installing this plugin. At this time, the plugin is not listed on the WordPress plugin page, which is due to the fact that the Electra development team is working to create a product before submitting it to be included on the WordPress Plugin page.
+ElectraPay WordPress plugin is an easy to install WordPress plugin. WooCommerce must be installed as well before installing this plugin. At this time, the plugin is not listed on the WordPress plugin page, which is due to the fact that the Electra Protocol development team is working to create a product before submitting it to be included on the WordPress Plugin page.
 
 In the meantime, you can easily set up the plugin by manually downloading and installing through your WordPress Plugin page on the backend of your website. To do so, navigate to the Plugins section on your WordPress Dashboard and follow the steps below.
 
@@ -51,4 +51,4 @@ Once you have the above configured, save your changes and go back to the screen 
 
 You have now successfully configured your ElectraPay Gateway Plugin!
 
-You will know if the plugin is installed correctly by testing a cart checkout. Once you select, Pay with ElectraPay, it should show information along with a QR code. Please contact us if you see errors. To contact us for help, visit <a href="https://electraproject.org">https://electraproject.org</a>
+You will know if the plugin is installed correctly by testing a cart checkout. Once you select, Pay with ElectraPay, it should show information along with a QR code. Please contact us if you see errors. To contact us for help, visit <a href="https://electraprotocol.com">https://electraprotocol.com</a>

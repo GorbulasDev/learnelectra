@@ -10,7 +10,7 @@ Currently, AtomicSwaps are not supported within ElectraPay. However, we are anti
 
 ### What Coins / Tokens will be supported?
 The following coins are currently supported within ElectraPay:
-- Electra (ECA)
+- Electra Protocol (XEP)
 - Bitcoin (BTC)
 
 ### Is KYC (Know Your Customer) needed to use ElectraPay?
@@ -32,10 +32,10 @@ As ElectraPay is not a wallet, you can certainly use a VPN.
 As ElectraPay does not use the actual QT wallet, it's very safe. Just keep you private keys and passwords in a secure place and to yourself.
 
 ### What happens if my computer or server fails that uses ElectraPay. How do I recover?
-Since ElectraPay does not use local file hosting, your coins and addresses are safe on the Electra Blockchain.
+Since ElectraPay does not use local file hosting, your coins and addresses are safe on the Electra Protocol blockchain.
 
 ### Can someone not authorized get into my account?
 The only way someone can gain access to your account is if you give them your password to access it.
 
-### Does the Electra Team have access to my account?
+### Does the Electra Protocol Team have access to my account?
 No! This is why it is very important to keep your passwords safe and to yourself! Never share your password with anyone, even if they claim to be from the Electra Protocol and offer you assistance of any kind.

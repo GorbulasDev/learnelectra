@@ -28,7 +28,7 @@ const features = [
   //  imageUrl: 'img/electra_black_background_small.svg',
     description: (
       <>
-        Educating yourself on how Electra works and how it can be used in various ways is important to making sound investments.
+        Educating yourself on how XEP works and how it can be used in various ways is important to making sound investments.
       </>
     ),
   },
@@ -37,7 +37,7 @@ const features = [
   //  imageUrl: 'img/electra_black_background_small.svg',
     description: (
       <>
-        Understanding about the project and the many ways Electra affects the crypto space is important! Use this document site to grow your knowledge.
+        Understanding about the project and the many ways the Electra Protocol affects the crypto space is important! Use this document site to grow your knowledge.
       </>
     ),
   },

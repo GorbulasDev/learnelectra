@@ -7,7 +7,7 @@ title: I Have the Basics. Now Teach Me More!
 Private keys, priv keys, what does all this mean? These are hashes that are a long chain of letters and numbers. With these keys, they hold the access to your coins on the blockchain. Your wallet stores these keys, in short, your wallet never stores actual coins. It retrieves the coins associated with the private keys in your wallet on the blockchain and displays them on your wallet.
 
 ### Dump Private Keys Using Wallet Dump
-1. Open your Electra QT Wallet
+1. Open your Electra Protocol QT Wallet
 2. Unlock your wallet (make sure you leave the box unchecked for staking only)
 3. Go to Tools --> Debug Console
 4. The format for the command to dump the file is:
@@ -24,11 +24,11 @@ walletpassphrase FluffyBunny58 0
 ```
 The 0 is for the wallet to be unlocked until it is locked again. 
 
-4a. If you still receive an error, it means the file location the Electra application is launched from is protected. To get around this, copy and paste the electra-qt.exe file to your Desktop. Then run the commands again.
+4a. If you still receive an error, it means the file location the Electra Protocol application is launched from is protected. To get around this, copy and paste the electra-qt.exe file to your Desktop. Then run the commands again.
 
 5. If both commands succeeded, there will be no return result. It will be a blank line.
 
-6. The file will now be located where the Electra QT Wallet runs (or on the Desktop if you did step 4a above). Example, most people on Windows for example use a shortcut to start the wallet from the start menu or desktop. The file is where the actual .exe of the Electra QT Wallet program is located. On Windows, it's located in:
+6. The file will now be located where the Electra Protocol QT Wallet runs (or on the Desktop if you did step 4a above). Example, most people on Windows for example use a shortcut to start the wallet from the start menu or desktop. The file is where the actual .exe of the Electra Protocol QT Wallet program is located. On Windows, it's located in:
 ```
 C:\Program Files\Electra\
 ```
@@ -37,7 +37,7 @@ Now you will find your new dumped file in there! If you used the .txt extension 
 5. Keep this file safe as it has many private keys!
 
 ### Dump Private Key of Address
-1. Open up your Electra QT Wallet
+1. Open up your Electra Protocol QT Wallet
 2. Unlock your wallet (make sure you leave the box unchecked for staking only)
 3. Go to Tools --> Debug Console
 4. The format for the command to dump the private key for the individual address is:
@@ -46,7 +46,7 @@ dumpprivkey MyAddressHere
 ```
 Where do I find my Receiving Addresses? Don't use the Reeive tab on the side! It does not have all your created addresses.
 
-5. Instead, go to File (on Mac, it's tab Electra on top left), then choose Receiving Addresses
+5. Instead, go to File (on Mac, it's tab Electra Protocol on top left), then choose Receiving Addresses
 
 6. Find the address you want to dump the private key of. NOTE: You cannot dump addresses that don't belong to your wallet. Essentially if you don't own the private key, you cannot dump it.
 - You can either use the Copy button or right-click and choose copy address 
@@ -63,13 +63,13 @@ dumpprivkey YourCopiedAddressHere
 ### Import Private Keys from Wallet Dump
 If you have your wallet dump file, you can import it! This is not importing a wallet.dat file but rather a text file usually as I have mentioned above. Here are the steps to import the dumped wallet file. Make a backup of your current wallet first before continuing!
 
-1. Open up your Electra QT Wallet
+1. Open up your Electra Protocol QT Wallet
 
 2. Unlock your wallet (make sure you leave the box unchecked for staking only)
 
 3. Go to Tools --> Debug Console
 
-4. Ensure the wallet dumped file is in the same location as the exe file of the Electra QT Wallet program.
+4. Ensure the wallet dumped file is in the same location as the exe file of the Electra Protocol QT Wallet program.
 - Again, that location on Windows for example is:
 ```
 C:\Program Files\Electra\
@@ -87,7 +87,7 @@ If successful, after some time, you wallet should be fully imported!
 
 ### Import Private Keys from Address Private Key
 
-1. Open up your Electra QT Wallet
+1. Open up your Electra Protocol QT Wallet
 
 2. Unlock your wallet (make sure you leave the box unchecked for staking only)
 
@@ -117,7 +117,7 @@ Linux:
 ```
 
 ## Commands in Debug Console and CLI
-1. Open up your Electra QT Wallet
+1. Open up your Electra Protocol QT Wallet
 2. Unlock your wallet (make sure you leave the box unchecked for staking only)
 3. Go to Tools --> Debug Console
 4. Type in the command on the Debug Console:
@@ -130,4 +130,4 @@ This will list all the commands that have been programmed into the wallet.
 
 ## Mnemonic Phrases
 
-The Mnemonic Phrase is a random list of words that when used and used in a specific order, create your wallet. Instead of typing up easy to mistype hashes, this phrase replaces that and makes it easier for the average human to work with. The only platforms as of creation of this article that use Mnemonic Phrases for Electra are the old Electra Desktop Wallet and the Electra Mobile Wallet. These two are NOT compatible with each other. The mnemonic phrase is not supported in the QT wallet but still can be used to recover your wallet through a process.
+The Mnemonic Phrase is a random list of words that when used and used in a specific order, create your wallet. Instead of typing up easy to mistype hashes, this phrase replaces that and makes it easier for the average human to work with. The only platforms as of creation of this article that use Mnemonic Phrases for Electra Protocol are the old Electra Desktop Wallet and the Electra Mobile Wallet. These two are NOT compatible with each other. The mnemonic phrase is not supported in the QT wallet but still can be used to recover your wallet through a process.

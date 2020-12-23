@@ -5,7 +5,7 @@ title: Getting Started with ElectraPay
 
 ## **The Start of Your ElectraPay Journey**
 
-It is amazing that you have chosen to join the Electra community! This is the basic guide to get started to accept Electra on your web site!
+It is amazing that you have chosen to join the Electra Protocol community! This is the basic guide to get started to accept XEP on your web site!
 
 ### 1. Get Signed Up 
 
