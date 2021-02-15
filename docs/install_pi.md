@@ -1,12 +1,12 @@
 ---
 id: install_pi
-title: Setup XEP Wallet On Raspberry Pi
+title: Setup XEP Core Wallet On Raspberry Pi
 ---
 
 
-## **XEP Wallet on the Raspberry Pi**
+## **XEP Core Wallet on the Raspberry Pi**
 
-The following is the instructions how to setup the XEP Wallet on the Raspberry Pi. Minimum tested pi version is 3B.
+The following is the instructions how to setup the XEP Core Wallet on the Raspberry Pi. Minimum tested pi version is 3B.
 
 ## **Instructions**
 
@@ -25,6 +25,11 @@ Then once that completes do (optional but recommended):
 ```
 sudo apt upgrade
 ```
+
+It was recommended by another user to add a swap space or better known to Windows users as virtual memory. This will help in times when the Raspberry Pi needs more resources to operate and prevent a crash of your wallet. Though this step is optional, it can be recommended. Please use the link below if you want to set up this swap:
+
+[Setup Swap or Virtual Memory](https://linuxize.com/post/how-to-add-swap-space-on-ubuntu-18-04/)
+
 
 ### Setup
 

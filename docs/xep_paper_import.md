@@ -3,12 +3,12 @@ id: xep_paper_import
 title: Import Paper Wallet
 ---
 
-# Importing a Paper Wallet with Electra QT Wallet
+# Importing a Paper Wallet with XEP Core Wallet
 
 ## Windows/MacOS/Linux
-The following guide is for all operating systems. This process can only be done on desktop or laptop Electra QT Wallet.
+The following guide is for all operating systems. This process can only be done on desktop or laptop XEP Core Wallet.
 
-1. Download the latest Electra QT Wallet here: [https://electraproject.org/wallets](https://electraproject.org/wallets)
+1. Download the latest XEP Core Wallet here: [https://www.electraprotocol.com/downloads/](https://www.electraprotocol.com/downloads/)
 
 2. Unlock your wallet from Settings -- Unlock Wallet (if option is grayed out, your wallet is not encrypted yet)
 

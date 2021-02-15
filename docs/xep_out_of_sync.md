@@ -3,7 +3,7 @@ id: xep_out_of_sync
 title: Out of Sync
 ---
 
-## Out of Sync, Database Errors, Critcial Errors in Electra QT Wallet
+## Out of Sync, Database Errors, Critcial Errors in XEP Core Wallet
 
 If you see Out of Sync, a critical error, or syncing stopped or frozen, more than likely your blockchain is corrupted. This is caused a number of ways:
 
@@ -11,7 +11,7 @@ If you see Out of Sync, a critical error, or syncing stopped or frozen, more tha
 * Network card goes to a low powered or sleep mode when wallet is open (refer to Google or search engine how to disable this)
 * Power failure when the wallet is open
 
-To fix these issues, the most common fix is to download a new copy of the blockchain. Yes this may take two to three hours to fully sync with the current wallet (improvments are in the works), but this will fix your issue.
+To fix these issues, the most common fix is to download a new copy of the blockchain. Yes this may take time to fully sync with the current wallet (improvments are in the works), but this will fix your issue.
 
 <i>NOTE</i>
 
@@ -21,61 +21,61 @@ To fix these issues, the most common fix is to download a new copy of the blockc
 
 1. First, turn off your wallet.
 
-2. Make a copy of your wallet.dat
+2. Make a copy of your wallet
 
    1. Press the windows key (bottom left corner of the keyboard) and letter 'r' together
     
    2. In the Run dialog box, type:
    ```
-   %appdata%\Electra
+   %appdata%\XEP
    ```
    3. Click OK
   
-   4. Electra folder will open, then copy and paste your wallet.dat file to a safe location such as another folder or even better, a usb drive. The file may not have .dat and that is due to hidden file types.
+   4. The XEP folder will open, then copy and paste your wallets folder to a safe location such as another folder or even better, a usb drive.
 
-   5. Delete all files and folders in the Electra folder EXCEPT wallet.dat
+   5. Delete all files and folders in the XEP folder EXCEPT the wallets folder.
 
-3. Uninstall your current wallet from Add and Remove Programs (DO NOT DELETE THE ELECTRA FOLDER)
+3. Uninstall your current wallet from Add and Remove Programs (DO NOT DELETE THE XEP FOLDER)
 
-   * It is normal for files to populate in the Electra folder once the Electra program is ran again
+   * It is normal for files to populate in the XEP folder once the XEP Core program is ran again
 
-4. Download and install the latest wallet version: https://electraproject.org/wallets
+4. Download and install the latest wallet version: https://www.electraprotocol.com/downloads/
 
 5. Run the wallet and wait for the full sync. Do note:
 
    * Balance will be 0 and transactions will be empty. These will populate as the blockchain syncs.
 
-6. If you wish, you can see all created wallet addresses in File->"Receiving addresses" in the Electra Menu
+6. If you wish, you can see all created wallet addresses in File->"Receiving addresses" in the XEP Menu
 
 ## MacOS
 
 1. First, turn off your wallet.
 
-2. Make a copy of your wallet.dat
+2. Make a copy of your wallet
 
    1. Click anywhere on the desktop (screen with your background) and click "Go" in the top menu and click "Go to Folder..." or press: Shift ⇧ + Command ⌘ + G
 
    2. Type:
    ```
-   ~/Library/Application Support/Electra
+   ~/Library/Application Support/XEP
    ```
    3. Click Go
 
-   4. Electra folder will open, then copy and paste your wallet.dat file to a safe location such as another folder or even better, a usb drive. The file may not have .dat and that is due to hidden file types.
+   4. The XEP folder will open, then copy and paste your wallets folder to a safe location such as another folder or even better, a usb drive.
 
-   5. Delete all files and folders in the Electra folder <b>EXCEPT</b> wallet.dat
+   5. Delete all files and folders in the XEP folder <b>EXCEPT</b> the wallets folder
 
-3. Uninstall your current wallet (DO NOT DELETE THE ELECTRA FOLDER)
+3. Uninstall your current wallet (DO NOT DELETE THE XEP FOLDER)
 
-   * It is normal for files to populate in the Electra folder once the Electra program is ran again
+   * It is normal for files to populate in the XEP folder once the XEP program is ran again
 
-4. Download and install the latest wallet version: https://electraproject.org/wallets
+4. Download and install the latest wallet version: https://www.electraprotocol.com/downloads/
 
 5. Run the wallet and wait for the full sync. Do note:
 
    * Balance will be 0 and transactions will be empty. These will populate as the blockchain syncs.
 
-6. If you wish, you can see all created wallet addresses in File->"Receiving addresses" in the Electra Menu
+6. If you wish, you can see all created wallet addresses in File->"Receiving addresses" in the XEP Menu
 
 ## Linux
 
@@ -83,21 +83,21 @@ Due to the numerous distros of Linux, this is a generic set of instructions for 
 
 1. First, turn off your wallet.
 
-2. Make a copy of your wallet.dat
+2. Make a copy of your wallet
 
     1. Open the Home directory and press Control + H
-    2. Hidden folders are displayed, open the folder .Electra
-    3. Copy and paste your wallet.dat file to a safe location such as another folder or even better, a usb drive.
-    4. Delete all files and folders in the Electra folder <b>EXCEPT</b> wallet.dat 
+    2. Hidden folders are displayed, open the folder .xep
+    3. Copy and paste your wallets folder to a safe location such as another folder or even better, a usb drive.
+    4. Delete all files and folders in the XEP folder <b>EXCEPT</b> the wallets folder 
 
-3. Uninstall your current wallet (or trash the current Electra-qt program)
+3. Uninstall your current wallet (or trash the current xep-qt program)
 
-   * It is normal for files to populate in the Electra folder once the Electra program is ran again
+   * It is normal for files to populate in the XEP folder once the XEP program is ran again
 
-4. Download and install the latest wallet version: https://electraproject.org/wallets
+4. Download and install the latest wallet version: https://www.electraprotocol.com/downloads/
 
 5. Run the wallet and wait for the full sync. Do note:
 
    * Balance will be 0 and transactions will be empty. These will populate as the blockchain syncs.
 
-6. If you wish, you can see all created wallet addresses in File->"Receiving addresses" in the Electra Menu
+6. If you wish, you can see all created wallet addresses in File->"Receiving addresses" in the XEP Menu
