@@ -15,24 +15,6 @@ Masternodes will not be supported but we will have validator nodes. Validator no
 
 <br />
 
-<details><summary>I have stakes that are showing up red or I just recently upgrade from an old wallet and my stakes are not valid. Help!</summary>
-<p>
-<br />
-You have been staking on the old blockchain. In order to be rewarded with coins that are valid on our current chain you need to use a current supported wallet. Doing staking on the blockchain is protecting the network. When you protect the network and your using an old unsupported wallet, your are protecting a different chain and thus the coins do not exist on our current chain as we have had two hard forks since October 2018.
-</p>
-</details>
-
-<br />
-
-<details><summary>Why does the Mobile Wallets not support staking??</summary>
-<p>
-<br />
-It's not possible with current technology. As they need to be online and current. The mobile wallet only downloads what are called headers so it is simple and lite wallet. This allows for the fast sync. If your mobile wallet did support it, the cpu on the mobile device would be hot most of the time. The mobile wallet's purpose is more for spending like a wallet you may keep on your person. To stake, you also need to leave your coins untouched too.
-</p>
-</details>
-
-<br />
-
 <details><summary>Where are the staking pools at?</summary>
 <p>
 <br />
