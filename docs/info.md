@@ -3,7 +3,7 @@ id: info
 title: XEP Stats and General Info
 ---
 
-* Coin Name: Electra Protocl
+* Coin Name: Electra Protocol
 * Coin Ticker Symbol : XEP
 * Website: electraprotocol.com
 * Creator: Electra Protocol Team
@@ -22,5 +22,7 @@ title: XEP Stats and General Info
 * Coin Maturity: 12 hours + 600 confirmations
 * Max Coin Age: 30 days
 * Lightning Network Support: Yes
-* Atomic Swap Support: Yes, SegWit and TapRoot (both native)
+* SegWit: Yes
+* TapRoot: Yes
+* Atomic Swap Support: Yes
 * ICO: No
