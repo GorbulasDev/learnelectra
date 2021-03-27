@@ -13,7 +13,7 @@ module.exports = {
     'XEP Wallet': ['xep_test1', 'install_pi', 'xep_backup', 'xep_restore_dat', 'xep_out_of_sync'],
   //  'Electra QT Wallet (outdated)': ['test1', 'qt_safety', 'backup', 'restore_dat', 'restore_mnemonic', 'out_of_sync', 'pdf_guides'],
     'Other Types of Wallets': ['mobile_hardware'],
-  //  ElectraPay:['electrapay_account', 'electrapay_setup', 'registration', 'electrapay_support'],
+     'ElectraPay':['electrapay_account', 'electrapay_setup', 'registration', 'electrapay_support'],
     'Frequently Asked Questions': ['faq'],
     'Electra Protocol Archives': ['archive'],
   },
