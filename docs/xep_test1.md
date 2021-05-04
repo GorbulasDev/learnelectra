@@ -49,8 +49,7 @@ To locate the folder, you can navigate to the location ~/.xep - Folder is hidden
 
 To backup your wallet, you have a number of options:
 
-*   On Windows go to File -- Backup Wallet
-*   On Mac/Linux go to XEP in the top Menu, then Backup Wallet
+*   On Windows, Mac, and Linux go to File -- Backup Wallet
 *   Export your private keys for each address or dump the wallet
 
 [Safety Tips](https://medium.com/electraproject/electra-safety-tips-dfd7fb4c9bfc)

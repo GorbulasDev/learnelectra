@@ -7,7 +7,7 @@ title: Restore XEP Core Wallet From a Wallets folder
 
 If you have a backed up wallets folder, you can use this method below to replace a current wallets folder. You need to have the XEP Core Wallet downloaded first, installed, and ran at least once.
 
-The instructions below are to accomplish these steps. You may also use the video as a guide to help out further. 
+The instructions below are to accomplish these steps. 
 
 **NOTE**
 During this process NEVER do the following:
@@ -24,4 +24,4 @@ During this process NEVER do the following:
 4. Restart the XEP Core Wallet and allow a full sync to see any coins if you had them in the previous wallets.
  
 
-[![wallet_restore](https://img.youtube.com/vi/yZkR_hWx1u8/0.jpg)](https://www.youtube.com/watch?v=yZkR_hWx1u8 "Electra ECA Wallet Restore")
+<!-- [![wallet_restore](https://img.youtube.com/vi/yZkR_hWx1u8/0.jpg)](https://www.youtube.com/watch?v=yZkR_hWx1u8 "Electra ECA Wallet Restore") -->
