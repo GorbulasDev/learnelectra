@@ -1,5 +1,7 @@
 # Website
 
+Learn Electra Protocol project documentation and resource guides.
+
 This website is built using Docusaurus 2, a modern static website generator.
 
 ### Installation
